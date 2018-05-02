@@ -1,6 +1,8 @@
-AVR-nRF24L01+
+stm8-nRF24L01+
 =============
 
-A library for using the nRF24L01+ with AVR chips like the ATmega328, written in C.
+A library for using the nRF24L01+ with STM8 microcontrollers using StdPeriph.
 
-You can find the equivalent Arduino library here: https://github.com/antoineleclair/arduino-nrf24l01.
+Modified by Jason Li from avr-nrf24l01, written by Antoine Leclair.
+
+Forked from here: https://github.com/antoineleclair/avr-nrf24l01
